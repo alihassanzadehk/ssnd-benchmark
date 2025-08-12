@@ -1,5 +1,3 @@
-# ssnd-benchmark
-
 # Stochastic Scheduled Service Network Design (SSND) Benchmark Instances
 
 This repository contains the benchmark instances and random demand scenarios used in the paper, forthcoming on Transportation Research Part B: Methodological:
