@@ -1,6 +1,8 @@
 # Stochastic Scheduled Service Network Design (SSND) Benchmark Instances
 
-This repository contains the benchmark instances and random demand scenarios used in the paper, forthcoming on Transportation Research Part B: Methodological:
+This repository contains benchmark instances and a Python loader for the **Stochastic Scheduled Service Network Design (SSND)** problem as presented in our paper, forthcoming on Transportation Research Part B: Methodological.  
+All data and code are provided to facilitate reproducibility, allow performance comparisons, and support further research in stochastic service network design.  
+
 
 > **Exact Solution Method for a Scheduled Service Network Design Problem**  
 > Taherkhani, et al.  
