@@ -337,7 +337,7 @@ def load_w_scenarios_zip(zip_path: str) -> Dict[Tuple[int,int,int,int,float], WS
 # Example usage
 # -----------------------------
 if __name__ == "__main__":
-    zip_path = "SSND Instances.zip"  # <- path to your zip
+    zip_path = "SSND_6node.zip"  # <- path to your zip
 
     instances = load_instances_zip(zip_path)
     print(f"Loaded {len(instances)} instances.")
