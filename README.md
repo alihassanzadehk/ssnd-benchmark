@@ -6,7 +6,7 @@ All data and code are provided to facilitate reproducibility, allow performance 
 
 > **Exact Solution Method for a Scheduled Service Network Design Problem**  
 > Taherkhani, et al.  
-> [SSRN link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5127558)
+> [TR-B Link]([https://www.sciencedirect.com/science/article/pii/S0191261525001377])
 
 ---
 
