@@ -6,7 +6,7 @@ All data and code are provided to facilitate reproducibility, allow performance 
 
 > **Exact Solution Method for a Scheduled Service Network Design Problem**  
 > Taherkhani, et al.  
-> [TR-B Link][https://www.sciencedirect.com/science/article/pii/S0191261525001377]
+> [TR-B Link](https://www.sciencedirect.com/science/article/pii/S0191261525001377)
 
 ---
 
